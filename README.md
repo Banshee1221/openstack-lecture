@@ -37,6 +37,6 @@ FIGURE OUT HOW TO CREATE A CIRROS INSTANCE!
 
 ### Assignment 2
 
-- Navigate to http://196.21.250.40/horizon and log in with domain `DEFAULT`, user `tutor` and pass `123qwe!@#QWE`.
+- Navigate to http://172.26.0.10/horizon and log in with domain `DEFAULT`, user `tutor` and pass `123qwe!@#QWE`.
 - Create a Cirros instance here
 - Reach the instance via ssh
