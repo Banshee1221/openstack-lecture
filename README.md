@@ -32,9 +32,11 @@ PUBLIC_INTERFACE=---name-of-the-second-network-card-not-used-for-ssh---
 
 #### Operating Devstack
 Once devstack is up and running, you can navigate to the IP address of the virtual machine in your web-browser. Ex: `http://192.168.1.1/` Here you can log in with user: `admin` and password whateveryou defined above in the `local.conf` file.
-##### Network
-Log into the Dashboard, `Horizon` as admin and switch to the `demo` project. First step now is to create a network that will use the bridge you set up in `step 3` to allow you add virtual machines to the campus network.
-1. Go to the Admin -> Network -> Networks tab
-2. Select `Create Network`.
-3. Name the network `campus`, give it the `demo` project and 
 
+FIGURE OUT HOW TO CREATE A CIRROS INSTANCE!
+
+### Assignment 2
+
+- Navigate to http://196.21.250.40/horizon and log in with domain `DEFAULT`, user `tutor` and pass `123qwe!@#QWE`.
+- Create a Cirros instance here
+- Reach the instance via ssh
